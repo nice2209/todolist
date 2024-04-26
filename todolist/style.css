@@ -13,19 +13,19 @@
     text-align: center;
 }
 
-main > .container > .input-list {
+.container > .input-list {
     margin-bottom: 40px;
 }
 
-main > .container > .input-list > input {
+.container > .input-list > input {
     width: 80%;
-    padding: 8px;   
+    padding: 8px;
     margin-bottom: 10px;
     border: 1px solid #ccc;
     border-radius: 10px;
 }
 
-main > .container > .input-list > button {
+.container > .input-list > button {
     padding: 8px 25px;
     border: none;
     background-color: #007bff;
@@ -34,7 +34,7 @@ main > .container > .input-list > button {
     cursor: pointer;
 }
 
-main > .container > .input-list > button:hover {
+.container > .input-list > button:hover {
     background-color: #0056b3;
 }
 
